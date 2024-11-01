@@ -1,0 +1,5 @@
+{
+    "MODEL_NAME": "llama2-uncensored:latest",
+    "REQUEST_POST": "http://localhost:11434/api/chat",
+    "OUTPUT_DIR": "output"
+    }
